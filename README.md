@@ -35,11 +35,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p text-align="center">💬 Social<p>
-  <a href="https://www.linkedin.com/in/mahsamoradi-/"><img src="icons8-linkedin-48.png" alt="">
-</a>
-  <a href=""><img src="" alt=""><img src="img/icons8-call-50.png" alt="">
-</a>
-  <a href="https://instagram.com/mahsa.moradiphoto?igshid=NzMyMjgxZWIzNw=="><img src="../../icon/img/icons8-instagram-48.png" alt="">
+<p text-align="center">💬 Contact Me<p>
+  <a href="https://www.linkedin.com/in/mahsamoradi-/">[(https://yek.link/mahsamoradi)](https://yek.link/mahsamoradi)
 </a>
 
