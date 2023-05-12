@@ -38,7 +38,7 @@
 <p text-align="center">💬 Social<p>
   <a href="https://www.linkedin.com/in/mahsamoradi-/"><img src="./icon/img/icons8-linkedin-48.png" alt="">
 </a>
-  <a href=""><img src="" alt=""><img src="././icon/img/icons8-call-50.png" alt="">
+  <a href=""><img src="" alt=""><img src="./././icon/img/icons8-call-50.png" alt="">
 </a>
   <a href="https://instagram.com/mahsa.moradiphoto?igshid=NzMyMjgxZWIzNw=="><img src="./icon/img/icons8-instagram-48.png" alt="">
 </a>
