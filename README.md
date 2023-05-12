@@ -1,7 +1,6 @@
 # Hi there 👋
 
-<img src="./working-abroad.png" alt="">
-<h2 text-align="center">Ik ben een Front End Developer.</h2>
+<img src="./working-abroad.jpg" alt=""><h2 text-align="center">Ik ben een Front End Developer.</h2>
 <p text-align="center">Ik ben een Front End Developer.</p>
 <div display=flex
   flex-direction= row>
