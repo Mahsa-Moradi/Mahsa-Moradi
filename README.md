@@ -1,5 +1,4 @@
 # Hi there 👋
 
-<img text-align="center" src='./github-contribution-grid-snake.svg'
->
+<img text-align="center" src='./working-abroad.png'>
 <h2 text-align="center">gffdnfg thrh</h2>
