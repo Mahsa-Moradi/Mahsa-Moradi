@@ -3,13 +3,12 @@
 <img src="./working-abroad.png" alt="">
 <h2 text-align="center">Ik ben een Front End Developer.</h2>
 <p text-align="center">Ik ben een Front End Developer.</p>
-<div display: flex;
-  flex-direction: row;>
+<div display: flex
+  flex-direction: row>
    <!-- 1 -->
-   <span display: flex;  
-    flex-basis: 50%; flex-direction: column;>
+   <span display: flex  
+    flex-basis: 50% flex-direction: column>
  <p text-align="center">📋 Languages</p>
- 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </span>
 
