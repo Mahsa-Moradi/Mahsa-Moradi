@@ -3,7 +3,8 @@
 <img src="./working-abroad.png" alt="">
 <h2 text-align="center">Ik ben een Front End Developer.</h2>
 <p text-align="center">Ik ben een Front End Developer.</p>
-<div class="">
+<div display: flex;
+  flex-direction: row;>
    <!-- 1 -->
    <span>
  <p text-align="center">📋 Languages</p>
