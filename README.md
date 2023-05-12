@@ -1,7 +1,8 @@
 # Hi there 👋
 <img src="./working-abroad.jpg" alt="">
 <h2 text-align="center">Ik ben een Front End Developer.</h2>
-<p text-align="center">Ik ben een Front End Developer.</p>
+<p text-align="center">💬 Contact Me<p>
+  <a href="https://www.linkedin.com/in/mahsamoradi-/">https://yek.link/mahsamoradi</a>
 <div display=flex
   flex-direction= row>
    <!-- 1 -->
