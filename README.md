@@ -36,6 +36,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p text-align="center">💬 Contact Me<p>
-  <a href="https://www.linkedin.com/in/mahsamoradi-/">[(https://yek.link/mahsamoradi)](https://yek.link/mahsamoradi)
-</a>
+  <a href="https://www.linkedin.com/in/mahsamoradi-/">https://yek.link/mahsamoradi</a>
 
