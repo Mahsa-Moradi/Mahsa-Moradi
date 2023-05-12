@@ -1,6 +1,10 @@
 # Hi there 👋
 <img src="./working-abroad.jpg" alt="">
 <h2 text-align="center">Ik ben een Front End Developer.</h2>
+<p>🔔 Fun fact: I love to learn new things!</p>
+<p>📚 I’m learning: PHP, React.</p>
+<p>💎 My goal: Full Stack.</p>
+
 
 <div display=flex
   flex-direction= row>
