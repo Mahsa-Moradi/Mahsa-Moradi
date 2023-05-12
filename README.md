@@ -1,4 +1,4 @@
 # Hi there 👋
 
-<img text-align="center" src='./working-abroad.png'>
+<img src="./working-abroad.png" alt="">
 <h2 text-align="center">gffdnfg thrh</h2>
